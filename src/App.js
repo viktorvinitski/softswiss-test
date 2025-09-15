@@ -91,16 +91,7 @@ function App() {
                       offer various
                       options for space excursions.
                   </article>
-                  <input type="checkbox" id="readmore-toggle" className="info__readmore--toggle"/>
                   <label htmlFor="readmore-toggle" className="info__readmore">Read More</label>
-
-                  {/*<details className="readmore">*/}
-                  {/*    <summary className="info__readmore">Read more</summary>*/}
-                  {/*    <p className="readmore__content">*/}
-                  {/*        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste*/}
-                  {/*        natus error sit voluptatem.*/}
-                  {/*    </p>*/}
-                  {/*</details>*/}
               </section>
           </main>
           <footer className="footer">
